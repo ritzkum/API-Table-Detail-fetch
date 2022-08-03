@@ -1,0 +1,1 @@
+# API-Table-Detail-fetch
